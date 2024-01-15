@@ -1,6 +1,8 @@
 ---
-title: Software I'm Thankful For
-date: 2023/06/11
+title: New Year, New Website
+date: 2024/01/01
 ---
-## Rust
 
+# New Year, New Website
+
+Since it's now 2024, I wanted to experiment with redesigning my website entirely.
